@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CVIP-Web-Development/static/css/main.7477d287.css",
+    "main.js": "/CVIP-Web-Development/static/js/main.d278e4a1.js",
+    "index.html": "/CVIP-Web-Development/index.html",
+    "main.7477d287.css.map": "/CVIP-Web-Development/static/css/main.7477d287.css.map",
+    "main.d278e4a1.js.map": "/CVIP-Web-Development/static/js/main.d278e4a1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7477d287.css",
+    "static/js/main.d278e4a1.js"
+  ]
+}
