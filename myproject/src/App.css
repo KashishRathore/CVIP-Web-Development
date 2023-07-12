@@ -8,8 +8,14 @@ body {
   overflow-x: hidden;
 }
 
-.navbar {
-  box-shadow: 0 10px 10px rgba(0, 0, 0, 0.4);
+nav{
+  background-color: rgb(51, 7, 153);
+  color: white;
+  padding: 10px;
+  text-align: center;
+  word-spacing:3px;
+  font-size: large;
+  font-weight: 800;
 }
 
 .logo {
